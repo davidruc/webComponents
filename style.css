@@ -1,0 +1,13 @@
+*{
+    margin: 1%;
+}
+.myBody{
+    display: flex;
+    width: 100%;  
+}
+.interno{
+    width: 60%;
+}
+.internoDere{
+    width: 40%;
+}
